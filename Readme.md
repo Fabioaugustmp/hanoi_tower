@@ -19,7 +19,7 @@ Table of Contents
 ---
 
 ## Problem Description
-<details>
+
 The **Tower of Hanoi** is a mathematical puzzle involving:
 
 - **Three rods (pegs)**.
@@ -31,13 +31,10 @@ The **Tower of Hanoi** is a mathematical puzzle involving:
 3. No disk may be placed on top of a smaller disk.
 
 While traditionally solved using recursion, this project explores solving the puzzle **iteratively using the BFS algorithm**, ensuring the minimal number of moves.
-</details>
 
 ---
 
 ## Why Use BFS?
-
-<details>
 
 Using **Breadth-First Search** provides several benefits:
 
@@ -46,7 +43,6 @@ Using **Breadth-First Search** provides several benefits:
 - **Avoids recursion pitfalls**: Prevents stack overflow issues in large instances.
 
 This approach highlights an **alternative to the recursive solution**, allowing deeper insight into the state transitions of the puzzle.
-</details>
 
 ---
 
